@@ -12,6 +12,8 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         print("Branch Changes - Branch name: develop")
+        
+        print("Some changes for merge conflict")
     }
 
 
